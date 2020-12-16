@@ -2,7 +2,7 @@
 a neofetch suckless fast alternative written in rust
 
 # Screenshot
-![alt text](https://github.com/xfcisco/xfcfet.rs/shot0.png)
+![alt text](https://github.com/xfcisco/xfcfet.rs/xfcfet.png)
 
 # Requirements
   - chafa
